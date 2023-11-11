@@ -7,7 +7,7 @@
  
 <p>Can also be installed on Opera through the <a href="https://addons.opera.com/extensions/details/download-chrome-extension-9/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="18" /> Opera Chrome-extension addon</a>.</p>
 
-----
+--------
 
 An addon to help you notice **notable** forks of a GitHub project.
 
